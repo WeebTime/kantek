@@ -1,1 +1,1 @@
-worker: python3 kantek/bot.py
+worker: bash run.sh
